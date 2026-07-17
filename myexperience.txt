@@ -1,0 +1,2 @@
+Share your best practices in using git.
+My best practice in using git is always initialize  the folder first then create a file, add it to staging area and commit it before pushing i always check the status using the command git status for anything overlook part then i will create a online repo and configure the connection between that online repo and my local folder using remote communication then commit.
