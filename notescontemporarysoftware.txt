@@ -1,0 +1,29 @@
+contemporary software
+
+Open source
+a philosophy that is accessible to anyone, free redistribution of ideas, design, activities and software for anyone.
+Copyleft licenses - 
+primitive licenses - 
+EXAMPLE OF OPEN SOFTWARE
+Eclipse
+coronium
+blender
+open office
+LibreOffice
+VLC media player
+
+Operating system
+android 
+Linux
+FreeBSD
+reactOS
+haiku
+freedoms
+
+LANGUAGE
+PEARL
+PHP
+PYHTON
+RUBY
+PHDL
+PROLOG
