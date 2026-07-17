@@ -1,0 +1,9 @@
+My workflow in Git process:
+
+git init - initialize the folder.
+git config --global - for user.
+create file - any file or .txt file.
+git add * - to add all file to staging area.
+git commit -m "" - to save a snapshot of that commit or file.
+git remote add origin - for online pushing.
+git push - for pushing local file into online repository
