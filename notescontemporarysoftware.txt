@@ -2,8 +2,9 @@ contemporary software
 
 Open source
 a philosophy that is accessible to anyone, free redistribution of ideas, design, activities and software for anyone.
-Copyleft licenses - 
-primitive licenses - 
+Copyleft licenses - pwedeng i modify basta same license
+primitive licenses - magagamit ang open source to create a proprietary application
+ 
 EXAMPLE OF OPEN SOFTWARE
 Eclipse
 coronium
@@ -12,18 +13,41 @@ open office
 LibreOffice
 VLC media player
 
+TYPES OF OPEN SOURCE
+OPEN
+CLOSE 
+FREEWARE
+
 Operating system
 android 
 Linux
 FreeBSD
-reactOS
+ReactOS
 haiku
 freedoms
 
-LANGUAGE
+LANGUAGE OPEN SOURCE
 PEARL
 PHP
 PYHTON
 RUBY
 PHDL
 PROLOG
+
+SOFTWARE FOR NETWORK MONITORING
+pocket sniffing - gathering or collecting of packets that pass on computer networks
+network adapter - connects sniffer to existing network
+Wi-Fi/network handshake - validation/hashing of password in connecting to Wi-Fi.
+encryption - making plain password randomized
+one way encryption - no going back when encrypted 
+two way - can encrypt and decrypt
+AIRCRACK NG KALI LINUX
+Wireshark
+edge computing - caching and iot
+serverless computing - no server
+microservices - every services are magkakahiwalay
+atomic services - 
+
+
+
+
